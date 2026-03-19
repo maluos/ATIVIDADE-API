@@ -1,6 +1,3 @@
 API REST para gerenciamento de filmes
 
-Permite:
-Listar filmes
-Cadastrar filmes
-Validar dados enviados
+Permite listar filmes, cadastrar filmes e validar dados enviados
