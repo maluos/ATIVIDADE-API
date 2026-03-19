@@ -1,3 +1,8 @@
-API REST para gerenciamento de filmes
+📌 Descrição
+API REST desenvolvida em JavaScript (Node.js) para gerenciamento de filmes.
 
-Permite listar filmes, cadastrar filmes e validar dados enviados
+🚀 Tecnologias
+JavaScript
+Node.js
+Express
+Postman
