@@ -121,6 +121,7 @@ Resposta:
    
 🎀 CAPTURA DOS TESTES 🎀
 
+![Uploading WhatsApp Image 2026-03-19 at 09.24.56.jpeg…]()
 
 
 
